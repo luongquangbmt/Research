@@ -20,6 +20,7 @@
 
 ## M17 (with PD)
 
+### Machine Learning: Classification of dense cores in giant molecular clouds using supervised machine learning algorithms  (with Troy, John)
 
 ## Origins of SiO gas in the ISM
 ### Christophe: DS9 to plot spectra of all SiO emission features, separate low and high
@@ -29,7 +30,6 @@
 
 
 
-Troy & Joe: Extract the morphology features with dendrogram
 
 
 Paper:
