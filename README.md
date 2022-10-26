@@ -3,11 +3,20 @@
 ## Quantum entanglment for coordinated obsevations
 
 ## Optical observations at Explora
+### spectroscopy education
 
-## Dust properties (with PA)
-### Dust emissitivity
+### Sky brightness
 
-### Dust polarization
+## Dust properties in SF regions (with PA)
+### Dust emissitivity with NIKA2
+
+#### Dust emissitivity in ALMA-IMF
+
+#### Dust emissitivity in Taurus with Interferometer (need to write proposal)
+
+### Dust polarization (with TA, PA)
+
+## Magnetic field strength using Zeeman spliting (with Nakamura)
 
 ## M17 (with PD)
 
