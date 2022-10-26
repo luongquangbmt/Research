@@ -1,22 +1,17 @@
 # Research
 
+## Quantum entanglment for coordinated obsevations
 
-AUP
-Provost meeting
-Planetary Environmental Data Science course proposal: high
-DS 3 course proposal: low
+## Optical observations at Explora
 
-MASTER QUANTUM
-Finish thesis (urgent)
-
-EXPLORA
-Mail to Dobashi
-Mail to Itoh
-Mail to Sugitani
+## Origins of SiO gas in the ISM
+### Christophe: DS9 to plot spectra of all SiO emission features, separate low and high
+### SiO chemical network (one first year student)
+### SiO analysis of IRDCs 
+### SiO analysis of Massive dense cores (ALMA-IMF)
 
 
-SiO & AUP Students
-Christophe: DS9 to plot spectra of all SiO emission features, separate low and high
+
 Troy & Joe: Extract the morphology features with dendrogram
 
 
