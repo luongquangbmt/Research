@@ -4,6 +4,9 @@
 
 ## Optical observations at Explora
 
+## Dust properties (with PA)
+
+## M17 (with PD)
 ## Origins of SiO gas in the ISM
 ### Christophe: DS9 to plot spectra of all SiO emission features, separate low and high
 ### SiO chemical network (one first year student)
