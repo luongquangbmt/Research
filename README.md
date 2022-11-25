@@ -3,9 +3,10 @@
 ## Quantum entanglment for coordinated obsevations
 
 ## Optical observations at Explora
-### spectroscopy education
+### Sky brightness (Tue)
 
-### Sky brightness
+### spectroscopy education (pending)
+
 
 ## Dust properties in SF regions (with PA)
 ### Dust emissitivity with NIKA2
@@ -16,17 +17,23 @@
 
 ### Dust polarization (with TA, PA)
 
-## Magnetic field strength using Zeeman spliting (with Nakamura)
+### Magnetic field strength using Zeeman spliting (with Nakamura)
 
-## M17 (with PD)
+### M17 (with PD)
 
 ### Machine Learning: Classification of dense cores in giant molecular clouds using supervised machine learning algorithms  (with Troy, John)
+
 
 ## Origins of SiO gas in the ISM
 ### Christophe: DS9 to plot spectra of all SiO emission features, separate low and high
 ### SiO chemical network (one first year student)
 ### SiO analysis of IRDCs 
 ### SiO analysis of Massive dense cores (ALMA-IMF)
+
+## Chemical survey using ALMA - ASHES
+
+## JWST - filaments/cores - Sasha
+
 
 
 
